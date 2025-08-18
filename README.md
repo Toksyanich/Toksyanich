@@ -59,4 +59,3 @@
 - 📞 +7 (930) 724-96-26  
 - ✉️ [spasskiy-mikhhail@yandex.ru](mailto:spasskiy-mikhhail@yandex.ru)  
 - 💬 [Telegram](https://t.me/toks_mi)  
-- 🖥️ [GitHub](https://github.com/Toksyanich)  
