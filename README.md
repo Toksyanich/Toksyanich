@@ -1,14 +1,14 @@
 # 👋 Михаил Спасский  
 
-- 🎓 Student (4th year) at Bryansk State Technical University  
-- 💻 Junior Data Engineer (> 8 months commercial experience)  
-- 📍 Bryansk, Russia  
-- 🌍 Speak Russian (Native), English (B1–B2)  
+- 🎓 Студент 4 курса Брянского государственного технического университета  
+- 💻 Junior Data Engineer 
+- 📍 Брянск, Россия  
+- 🌍 Языки: русский (родной), английский (B1–B2) 
 
 ---
 
-## Experience 🎓  
-**Junior Data Engineer** — [BI.Qube / IT.Pro](https://itpro.ru/) *(12.2024 – present)*  
+## Опыт  > 8 месяцев 🎓  
+**Junior Data Engineer** — [BI.Qube / IT.Pro]([https://itpro.ru/](https://biqube.ru/)) *(12.2024 – present)*  
 - Разработка и поддержка **ETL-процессов** (Airflow, Python)  
 - Подключение к внешним источникам данных, очистка и трансформация (BI.Qube)  
 - Оптимизация **SQL-запросов** (PostgreSQL)  
@@ -19,15 +19,14 @@
 
 ---
 
-## Stack 🛠️  
+## Технологический стек 🛠️  
 
-### Languages  
+### Языки программирования   
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
-### Data & Tools  
+### Инструменты и технологии   
 ![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=Apache%20Airflow)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-000?&logo=ClickHouse)
@@ -39,25 +38,24 @@
 
 ---
 
-## Education 🎓  
+## Образование  🎓  
 - **Bryansk State Technical University** — Information Technology Faculty  
   *(2022 – 2026)*  
   *Mathematical Software & Administration of Information Systems*  
 
-**Courses**:  
-- Yandex Cloud — Managed Service for **ClickHouse** (сертификат)  
-- Yandex Cloud — Managed Service for **Greenplum** (сертификат)  
+**Курсы**:  
+- Yandex Cloud — Managed Service for **ClickHouse** 
+- Yandex Cloud — Managed Service for **Greenplum** 
 
 ---
 
-## Events & Achievements 🏆  
+## Участие и достижения  🏆  
 - Финалист форума **Студент года 2023** (проект "Твой Ход")  
-- Активный участник всероссийских студенческих форумов  
-- Организатор и участник вузовских IT-инициатив  
+- Активный участник всероссийских студенческих форумов
 
 ---
 
-## Contacts & Socials 📮  
+## Контакты  📮  
 - 📞 +7 (930) 724-96-26  
 - ✉️ [spasskiy-mikhhail@yandex.ru](mailto:spasskiy-mikhhail@yandex.ru)  
 - 💬 [Telegram](https://t.me/toks_mi)  
